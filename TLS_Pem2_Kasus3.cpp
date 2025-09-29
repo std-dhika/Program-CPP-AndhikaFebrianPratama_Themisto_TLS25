@@ -3,7 +3,7 @@ using namespace std;
 
 int main () {
     int t;
-    int cycle = 102;
+    int cycle = 103;
     cout << "Selamat Datang di Program : Menentukan Warna Lampu APILL pada Detik ke-(t)" << endl;
     cout << "Silahkan Masukan selang waktu = " << endl;
     cin >> t;
@@ -23,4 +23,5 @@ int main () {
         cout << "Lampu APILL berwarna Merah" << endl;
     }
     return 0;
+
 }
